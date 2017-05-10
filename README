@@ -1,0 +1,8 @@
+                                     title
+
+A utility tool for centering titles when creating documentation. It's not that
+special, but it is handy.
+
+USAGE
+
+title <width> <title>
